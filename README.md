@@ -38,13 +38,12 @@ Kõik õpilased alustavad **10 punktiga**
 
 | Punktivahemik | Lõputöö keerukus | Selgitus / töö tüüp |
 |---------------|-------------------|-----------------------|
-| **9–10 punkti** | Lihtsam API-projekt | Näiteks: **Avaliku API põhine kuvamisleht** – Pokémoni, NASA pildiarhiivi või Cat Facts API kasutamine. Andmed kuvatakse kaunilt Tailwindiga. Keskendutakse koodi puhtusele ja struktuurile. |
-| **7–8 punkti** | Interaktiivne andmete kuvamine | Näiteks: **Valuuta- või ilmaandmete rakendus**, kus kasutaja saab otsida ja filtreerida API vastuseid. Vajalik olekuhaldus (state) ja komponentide vahel andmete liikumine. |
-| **5–6 punkti** | CRUD-funktsioonidega rakendus | Näiteks: **Filmi- või raamatuandmebaas**, kus andmeid loetakse API-st ning kasutaja saab lisada/kommenteerida elemente lokaalselt (või mock API abil). Vajalik andmestruktuuri haldus ja loogiline UX. |
-| **3–4 punkti** | Mitme API ühendus + andmetöötlus | Näiteks: **Reisi- või uudisteportaal**, mis ühendab kahte API-t (nt ilma + geolokatsioon). Vajalik andmete kombineerimine ja dünaamiline renderdus. Projekti juurde kuulub arendusdokumentatsioon. |
-| **0–2 punkti** | Täielik projekt täiendava analüüsiga | Näiteks: **Dashboard-tüüpi rakendus**, mis kogub ja visualiseerib andmeid mitmest API-st (nt krüptovaluuta, sport, tehnoloogia uudised). Vajalik andmete töötlemine, sorteerimine, graafikud (Chart.js / Recharts) ja põhjalik README koos refleksiooniga. |
+| **9–10 punkti** | Lihtsam API-projekt | Näiteks: **Avaliku API põhine kuvamisleht** – Pokémoni või NASA pildiarhiivi API kasutamine. Andmed kuvatakse Tailwindiga. Keskendutakse koodi puhtusele ja struktuurile. (Vue/React) |
+| **7–8 punkti** | Lisaks Interaktiivne andmete kuvamine | Näiteks: **Valuuta- või ilmaandmete rakendus**, kus kasutaja saab otsida ja filtreerida API vastuseid. Vajalik olekuhaldus (state) ja komponentide vahel andmete liikumine. |
+| **5–6 punkti** | Mölemad eelnevad rakendused | Õpilane koostab mölemad eelnevad etapid sammasse rakendusse. Multi page application |
+| **3–4 punkti** | Mitme API ühendus + dokumentatsioon + Figma Disain | Näiteks: **Reisi- või uudisteportaal**, mis ühendab kahte API-t (nt ilma + geolokatsioon). Peavad olema tehtud ka **9–10**, **7–8** ja **5–6** taseme tööd ühel lehel. Vajalik andmete kombineerimine ja dünaamiline renderdus. Projekti juurde kuulub põhjalik arendusdokumentatsioon, mis kirjeldab tehnilist lahendust. |
+| **0–2 punkti** | Täielik projekt + täisanalüüs + kõik eelnevad tasemed | Näiteks: **Dashboard-tüüpi rakendus**, mis kogub ja visualiseerib andmeid mitmest API-st (nt krüptovaluuta, sport, tehnoloogia uudised). Peavad olema tehtud ka **9–10**, **7–8**, **5–6** ja **3–4** taseme tööd ühel lehel. Vajalik andmete töötlemine, sorteerimine, graafikud (Chart.js / Recharts) ja põhjalik README koos refleksiooniga: „Kuidas minu käitumine mõjutas projekti ja meeskonda?”. |
 
----
 
 ## 📊 Õpilaste punktitabel
 
