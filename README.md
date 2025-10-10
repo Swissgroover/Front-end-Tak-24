@@ -49,18 +49,18 @@ Kõik õpilased alustavad **10 punktiga**
 
 | Õpilase nimi | Algpunktid | Kaotatud punktid | Teenitud lisapunktid | Hetkeseis kokku | Märkused |
 |---------------|-------------:|-----------------:|---------------------:|----------------:|-----------|
-|Marius         | 10 |   |   |   |   |
+|Marius         | 10 |  4 |   |  6 |   |
 |Joosep         | 10 |  1 |   | 9  |   |
-|Carlos               | 10 |   |   |   |   |
-|Eli               | 10 |   |   |   |   |
-|Rasmus               | 10 |   |   |   |   |
-|Gregor               | 10 |   |   |   |   |
-|Keiro               | 10 |   |   |   |   |
-|Silvio               | 10 |   |   |   |   |
-|Jasper               | 10 |   |   |   |   |
-|Matis               | 10 |   |   |   |   |
-|Oskar               | 10 |   |   |   |   |
-|Ragnar               | 10 |   |   |   |   |
+|Carlos         | 10 |   |   |   |   |
+|Eli            | 10 |   |   |   |   |
+|Rasmus         | 10 |  4 |   | 6  |   |
+|Gregor         | 10 |   |   |   |   |
+|Keiro          | 10 |   |   |   |   |
+|Silvio         | 10 |  1 |   |  9 |   |
+|Jasper         | 10 |   |   |   |   |
+|Matis          | 10 |  1 |   | 9 |   |
+|Oskar          | 10 |   |  1 | 11  |   |
+|Ragnar         | 10 |   |   |   |   |
 
 
 
