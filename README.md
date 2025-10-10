@@ -50,7 +50,7 @@ Kõik õpilased alustavad **10 punktiga**
 | Õpilase nimi | Algpunktid | Kaotatud punktid | Teenitud lisapunktid | Hetkeseis kokku | Märkused |
 |---------------|-------------:|-----------------:|---------------------:|----------------:|-----------|
 |Marius         | 10 |   |   |   |   |
-|Joosep         | 10 |   |   |   |   |
+|Joosep         | 10 |   |  1 |   |   |
 |Carlos               | 10 |   |   |   |   |
 |Eli               | 10 |   |   |   |   |
 |Rasmus               | 10 |   |   |   |   |
