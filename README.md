@@ -53,13 +53,13 @@ Kõik õpilased alustavad **10 punktiga**
 |Joosep         | 10 |  3 |   | 7  |   |
 |Carlos         | 10 |  0 |   |  10 |   |
 |Eli            | 10 |  4 |   |  6 |   |
-|Rasmus         | 10 |  8 |   | 2  |   |
+|Rasmus         | 10 |  12 |   | -2  |   |
 |Gregor         | 10 |   |   |   |   |
 |Keiro          | 10 |  2 |   |  8 |   |
 |Silvio         | 10 |  1 |   |  9 |   |
 |Jasper         | 10 |  2 |   |  8 |   |
 |Matis          | 10 |  3 |   | 7 |   |
-|Oskar          | 10 |  4 |  2 | 8  |   |
+|Oskar          | 10 |  8 |  2 | 4  |   |
 |Ragnar         | 10 |   |  1 |  11 |   |
 
 
