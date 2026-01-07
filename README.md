@@ -21,6 +21,8 @@ Kõik õpilased alustavad **10 punktiga**
 | Teiste töö pealt maha tegemine | -5 | Ebasoovitav meeskonnakäitumine |
 | Spikerdamine / koodi kopeerimine ilma mõistmiseta | -3 | Eetika ja õpioskuse rikkumine |
 | Ropp või lugupidamatu suhtlus (sh online-kanalites) | -2 | Meeskonna turvalisuse rikkumine |
+| Tunniülesande mitte täitmine ettenatud kuupäevaks | -5 |  |
+
 
 ---
 
