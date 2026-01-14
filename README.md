@@ -40,7 +40,7 @@ Kõik õpilased alustavad **10 punktiga**
 
 | Punktivahemik | Lõputöö keerukus | Selgitus / töö tüüp |
 |---------------|-------------------|-----------------------|
-| **9–10 punkti** | Lihtsam API-projekt | Näiteks: **Avaliku API põhine kuvamisleht** – Pokémoni või NASA pildiarhiivi API kasutamine. Andmed kuvatakse Tailwindiga. Keskendutakse koodi puhtusele ja struktuurile. (Vue/React) |
+| **9 punkti** | Lihtsam API-projekt | Näiteks: **Avaliku API põhine kuvamisleht** – Pokémoni või NASA pildiarhiivi API kasutamine. Andmed kuvatakse Tailwindiga. Keskendutakse koodi puhtusele ja struktuurile. (Vue/React) |
 | **7–8 punkti** | Lisaks Interaktiivne andmete kuvamine | Näiteks: **Valuuta- või ilmaandmete rakendus**, kus kasutaja saab otsida ja filtreerida API vastuseid. Vajalik olekuhaldus (state) ja komponentide vahel andmete liikumine. |
 | **5–6 punkti** | Mölemad eelnevad rakendused | Õpilane koostab mölemad eelnevad etapid sammasse rakendusse. Multi page application |
 | **3–4 punkti** | Mitme API ühendus + dokumentatsioon + Figma Disain | Peavad olema tehtud ka **9–10**, **7–8** ja **5–6** taseme tööd ühel lehel. Vajalik andmete kombineerimine ja dünaamiline renderdus. Projekti juurde kuulub põhjalik arendusdokumentatsioon, mis kirjeldab tehnilist lahendust. |
@@ -59,7 +59,7 @@ Kõik õpilased alustavad **10 punktiga**
 |Gregor         | 10 |  4 |   |  6 |   |
 |Keiro          | 10 |  2 |   |  8 |   |
 |Silvio         | 10 |  1 |   |  9 |   |
-|Jasper         | 10 |  2 |   |  8 |   |
+|Jasper         | 10 |  2 |  1 |  9 |   |
 |Matis          | 10 |  3 |   | 7 |   |
 |Oskar          | 10 |  8 |  2 | 4  |   |
 |Ragnar         | 10 |   |  1 |  11 |   |
